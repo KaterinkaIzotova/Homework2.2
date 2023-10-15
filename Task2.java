@@ -6,6 +6,7 @@
 import java.lang.String;
 public class Task2 {
     public static void main(String[] args) {
+
         String str = "MonOPoly";
         String str2 = "";
         int start = (str.length()/2)-1;

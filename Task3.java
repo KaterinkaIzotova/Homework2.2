@@ -11,7 +11,6 @@
 public class Task3 {
     public static void formatString (String surename, int marks, String subject) {
         String str = String.format("Студент %-15s получил %-3d по %-10s",surename,marks,subject);
-
         System.out.println(str);
     }
     public static void main (String[] args) {
