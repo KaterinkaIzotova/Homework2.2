@@ -14,8 +14,8 @@ public class Task3 {
         System.out.println(str);
     }
     public static void main (String[] args) {
-        formatString("Иванов",5,"математике");
-        formatString("Петрова",4,"физике");
-        formatString("Сидорова",3,"пограммированию");
+        formatString("Иванов", 5, "математике");
+        formatString("Петрова", 4, "физике");
+        formatString("Сидорова", 3, "пограммированию");
     }
 }
